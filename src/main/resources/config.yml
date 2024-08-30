@@ -1,0 +1,28 @@
+prefix: ''
+prefix-2: ''
+
+messages:
+  no-permission:
+    - '&cI''m sorry but you can not do that.'
+
+  confirm-reload:
+    - '&e&n&lClick this message to reload.'
+  reloaded:
+    - '&eConfig reloaded!'
+  usage:
+    - "&eWGBF Commands"
+    - "&7/wgbf add-placeable <region> <block name>"
+    - "&7/wgbf add-breakable <region> <block name>"
+    - "&7/wgbf remove-breakable <region> <block name>"
+    - "&7/wgbf remove-placeable <region> <block name>"
+    - "&7/wgbf name"
+  wrong-usage:
+    - '&cWrong usage. Correct usage: &f/wgbf %type% <region> <block name>'
+  added-placeable:
+    - '&eAdded new placeable block &f%block% &einto region &f%region%&e.'
+  added-breakable:
+    - '&eAdded new breakable block &f%block% &einto region &f%region%&e.'
+  removed-placeable:
+    - '&eRemoved placeable block &f%block% &efrom region &f%region%&e.'
+  removed-breakable:
+    - '&eRemoved breakable block &f%block% &efrom region &f%region%&'

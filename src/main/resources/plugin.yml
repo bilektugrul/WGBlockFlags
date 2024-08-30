@@ -1,0 +1,6 @@
+name: WGBlockFlags
+version: '1.0-SNAPSHOT'
+main: io.github.bilektugrul.wgblockflags.WGBlockFlags
+api-version: '1.19'
+authors: [ bilektugrul ]
+depends: [WorldGuard]
